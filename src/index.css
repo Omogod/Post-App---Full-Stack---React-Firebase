@@ -1,5 +1,13 @@
 * {
     box-sizing: border-box;
-    margin: auto;
+    margin: 0;
+    padding: 0;
     background-color: #ffffff;
+}
+
+.signin {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
